@@ -92,7 +92,6 @@ A simple, beginner-friendly project that uses only what was learned during the i
 
 ### 🔗 Reference Links
 
-- **[Certificate/verification portal link]**
 - MDN Web Docs (HTML/CSS/JS): https://developer.mozilla.org/
 - GitHub Pages Documentation: https://pages.github.com/
 - Git Documentation: https://git-scm.com/doc
