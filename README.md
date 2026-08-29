@@ -1,8 +1,8 @@
 # Web Development Virtual Internship
 
-**AICTE – EduSkills Virtual Internship Program | [Supported by / In Partnership with] [Name of Internship Organization]**
+**Virtual Internship Program | [Supported by / In Partnership with] [Name of Internship Organization]**
 
-This repository contains my internship report, presentation, and completion credentials for the **Web Development** track of the AICTE–EduSkills Virtual Internship Program (**[Start Month Year] – [End Month Year]**).
+This repository contains my internship report, presentation, and completion credentials for the **Web Development** track of the Virtual Internship Program (**[Start Month Year] – [End Month Year]**).
 
 ---
 
@@ -12,11 +12,11 @@ This repository contains my internship report, presentation, and completion cred
 |---|---|
 | **Name** | Sahil Rajput |
 | **Roll Number** | 25SCS1003001217 |
-| **Institute** | **[Your University Name], [City, State]** |
-| **Programme** | B.Tech CSE, Batch **[e.g. 2026–27]** |
+| **Institute** | **IILM University,GReater Noida,UP.** |
+| **Programme** | B.Tech CSE, Batch **2025-2029** |
 | **Internship Domain** | Web Development |
 | **Duration** | **[X]** Weeks (**[Start Month Year] – [End Month Year]**) |
-| **GitHub** | **[@your-github-username]** |
+| **GitHub** | **@sahil25scs1003001217-arch** |
 
 ---
 
@@ -88,28 +88,20 @@ A simple, beginner-friendly project that uses only what was learned during the i
 | Field | Details |
 |---|---|
 | **Certificate Title** | Certificate of Virtual Internship – Web Development |
-| **Grade** | **[Your Grade]** |
-| **Certificate ID** | **[Certificate ID]** |
-| **AICTE Student ID** | **[AICTE Student ID, if applicable]** |
-| **Offer Letter Ref No.** | **[Reference Number]** |
 | **Issued By** | **[Name of Internship Organization]** |
 
 ### 🔗 Reference Links
 
 - **[Certificate/verification portal link]**
-- AICTE National Internship Portal: https://internship.aicte-india.org/
 - MDN Web Docs (HTML/CSS/JS): https://developer.mozilla.org/
 - GitHub Pages Documentation: https://pages.github.com/
 - Git Documentation: https://git-scm.com/doc
-
-> Certificate authenticity can be verified via **[QR code / verification link on the certificate]**.
-
 ---
 
 ## 📁 Repository Contents
 
 ```
-├── Internship_Report_Sahil_Rajput.docx     # Full internship report (AICTE/University format)
+├── Internship_Report_Sahil_Rajput.docx     # Full internship report (University format)
 ├── Web_Development_Internship_Rajput.pptx  # Presentation deck
 ├── Certificate_of_Internship.png           # Completion certificate
 ├── Internship_Offer_Letter.png             # Offer letter
@@ -141,7 +133,7 @@ A simple, beginner-friendly project that uses only what was learned during the i
 
 ## 🙏 Acknowledgement
 
-Thanks to the AICTE–EduSkills Virtual Internship Program team, **[Name of Internship Organization]**, and my mentors for the opportunity, and to **[Your University Name]** for continuous support throughout the programme.
+Thanks to the Virtual Internship Program team, **[Name of Internship Organization]**, and my mentors for the opportunity, and to **IILM University,GReater Noida,UP.** for continuous support throughout the programme.
 
 ---
 
