@@ -12,7 +12,7 @@ This repository contains my internship report, presentation, and completion cred
 |---|---|
 | **Name** | Sahil Rajput |
 | **Roll Number** | 25SCS1003001217 |
-| **Institute** | **IILM University,GReater Noida,UP.** |
+| **Institute** | **IILM University,Greater Noida,UP.** |
 | **Programme** | B.Tech CSE, Batch **2025-2029** |
 | **Internship Domain** | Web Development |
 | **Duration** | **[X]** Weeks (**[Start Month Year] – [End Month Year]**) |
@@ -132,8 +132,8 @@ A simple, beginner-friendly project that uses only what was learned during the i
 
 ## 🙏 Acknowledgement
 
-Thanks to the Virtual Internship Program team, **[Name of Internship Organization]**, and my mentors for the opportunity, and to **IILM University,GReater Noida,UP.** for continuous support throughout the programme.
+Thanks to the Virtual Internship Program team, **[Name of Internship Organization]**, and my mentors for the opportunity, and to **IILM University,Greater Noida,UP.** for continuous support throughout the programme.
 
 ---
 
-**Sahil Rajput** · B.Tech CSE · **[Your University Name]**
+**Sahil Rajput** · B.Tech CSE · **IILM University,Greater Noida**
