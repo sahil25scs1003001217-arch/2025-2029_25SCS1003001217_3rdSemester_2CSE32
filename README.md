@@ -1,8 +1,8 @@
 # Web Development Virtual Internship
 
-**Virtual Internship Program | [Supported by / In Partnership with] [Name of Internship Organization]**
+**Virtual Internship Program | Course Joiner**
 
-This repository contains my internship report, presentation, and completion credentials for the **Web Development** track of the Virtual Internship Program (**[Start Month Year] – [End Month Year]**).
+This repository contains my internship report, presentation, and completion credentials for the **Web Development** track of the Virtual Internship Program (**10 July 2026 – 10 August 2026**).
 
 ---
 
@@ -15,7 +15,7 @@ This repository contains my internship report, presentation, and completion cred
 | **Institute** | **IILM University,Greater Noida,UP.** |
 | **Programme** | B.Tech CSE, Batch **2025-2029** |
 | **Internship Domain** | Web Development |
-| **Duration** | **[X]** Weeks (**[Start Month Year] – [End Month Year]**) |
+| **Duration** | **4** Weeks (**10 July 2026 – 10 August 2026**) |
 | **GitHub** | **@sahil25scs1003001217-arch** |
 
 ---
@@ -24,7 +24,8 @@ This repository contains my internship report, presentation, and completion cred
 
 This internship focused on building a strong, beginner-friendly foundation in web development — starting from the basics of how a webpage is built, all the way to putting together a simple, complete website of my own. It followed an easy, step-by-step, week-wise curriculum combining short lessons with hands-on practice, small tasks after every topic, and one final beginner-level project that brought everything together.
 
-**Organization:** **[Name of Internship Organization]** — **[one or two lines about the organization, e.g. "runs the AICTE–EduSkills Virtual Internship Program under the patronage of the AICTE National Internship Portal"]**.
+**Organization:** **Course Joiner** — **a Delhi-based ed-tech platform that provides students with access to paid online courses for free (including content from Udemy, Coursera, and Google) alongside its own internship and workshop programs. This Virtual Internship Program delivered a beginner-friendly, step-by-step curriculum for the Web Development track, combining short lessons with hands-on practice every week.
+**.
 
 ---
 
