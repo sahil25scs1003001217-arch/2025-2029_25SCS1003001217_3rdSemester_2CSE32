@@ -89,7 +89,7 @@ A simple, beginner-friendly project that uses only what was learned during the i
 | Field | Details |
 |---|---|
 | **Certificate Title** | Certificate of Virtual Internship – Web Development |
-| **Issued By** | **[Name of Internship Organization]** |
+| **Issued By** | **Course Joiner** |
 
 ### 🔗 Reference Links
 
@@ -133,7 +133,7 @@ A simple, beginner-friendly project that uses only what was learned during the i
 
 ## 🙏 Acknowledgement
 
-Thanks to the Virtual Internship Program team, **[Name of Internship Organization]**, and my mentors for the opportunity, and to **IILM University,Greater Noida,UP.** for continuous support throughout the programme.
+Thanks to the Virtual Internship Program team, **Course Joiner**, and my mentors for the opportunity, and to **IILM University,Greater Noida,UP.** for continuous support throughout the programme.
 
 ---
 
