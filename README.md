@@ -91,12 +91,7 @@ A simple, beginner-friendly project that uses only what was learned during the i
 | **Certificate Title** | Certificate of Virtual Internship – Web Development |
 | **Issued By** | **Course Joiner** |
 
-### 🔗 Reference Links
 
-- MDN Web Docs (HTML/CSS/JS): https://developer.mozilla.org/
-- GitHub Pages Documentation: https://pages.github.com/
-- Git Documentation: https://git-scm.com/doc
----
 
 ## 📁 Repository Contents
 
