@@ -97,7 +97,7 @@ A simple, beginner-friendly project that uses only what was learned during the i
 
 ```
 ├── Internship_Report_Sahil_Rajput.pdf     # Full internship report
-├── Web_Development_Internship_Rajput.pdf  # Presentation ppt
+├── Internship_ppt.pdf                     # Presentation ppt
 ├── Certificate_of_Internship.png           # Completion certificate
 ├── portfolio-project/                      # Final project source code
 └── README.md                               # This file
